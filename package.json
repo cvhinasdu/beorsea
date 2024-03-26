@@ -1,0 +1,36 @@
+{
+  "name": "beorsea",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "coin_scan_binance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cvhinasdu/beorsea"
+  },
+  "website": "https://github.com/cvhinasdu/beorsea.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "cvhinasdu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvhinasdu/beorsea/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/cvhinasdu/beorsea#readme",
+  "dependencies": {
+    "adssleos": "1.0.2",
+    "coeirsed": "1.0.2",
+    "disekds": "1.0.2",
+    "eidoefs": "1.0.2"
+  }
+}
